@@ -1,0 +1,11 @@
+D:\Projetos C#\Exercicios-Academia\Calculadora.WindowsFormsApp\bin\Debug\Calculadora.WindowsFormsApp.exe.config
+D:\Projetos C#\Exercicios-Academia\Calculadora.WindowsFormsApp\bin\Debug\Calculadora.WindowsFormsApp.exe
+D:\Projetos C#\Exercicios-Academia\Calculadora.WindowsFormsApp\bin\Debug\Calculadora.WindowsFormsApp.pdb
+D:\Projetos C#\Exercicios-Academia\Calculadora.WindowsFormsApp\obj\Debug\Calculadora.WindowsFormsApp.csproj.AssemblyReference.cache
+D:\Projetos C#\Exercicios-Academia\Calculadora.WindowsFormsApp\obj\Debug\Calculadora.WindowsFormsApp.csproj.SuggestedBindingRedirects.cache
+D:\Projetos C#\Exercicios-Academia\Calculadora.WindowsFormsApp\obj\Debug\Calculadora.WindowsFormsApp.Properties.Resources.resources
+D:\Projetos C#\Exercicios-Academia\Calculadora.WindowsFormsApp\obj\Debug\Calculadora.WindowsFormsApp.csproj.GenerateResource.cache
+D:\Projetos C#\Exercicios-Academia\Calculadora.WindowsFormsApp\obj\Debug\Calculadora.WindowsFormsApp.csproj.CoreCompileInputs.cache
+D:\Projetos C#\Exercicios-Academia\Calculadora.WindowsFormsApp\obj\Debug\Calculadora.WindowsFormsApp.exe
+D:\Projetos C#\Exercicios-Academia\Calculadora.WindowsFormsApp\obj\Debug\Calculadora.WindowsFormsApp.pdb
+D:\Projetos C#\Exercicios-Academia\Calculadora.WindowsFormsApp\obj\Debug\Calculadora.WindowsFormsApp.Calculadora.resources
